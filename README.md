@@ -18,3 +18,7 @@
 Выбираем нужный компонент
 
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/6.png)
+***
+Ждем пока установится до конца:
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/7.png)
