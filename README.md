@@ -16,4 +16,5 @@
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/5.png)
 ***
 Выбираем нужный компонент
+
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/6.png)
