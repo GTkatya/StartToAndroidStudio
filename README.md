@@ -54,3 +54,27 @@
 ***
 Теперь выбираю версию Андроида(я поставила последнюю версию)
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/14.png)
+***
+Ждем установку компонентов:
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/15.png)
+***
+Добавим название и наш эмулятор готов
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/16.png)
+***
+Запустим наш проект
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/17.png)
+***
+При нажатии на кнопку мы видим нашу надпись
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/18.png)
+***
+На физическом телефоне:
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/19.png)
+***
+Проверяем кнопку после смены ориентации телефона:
+
+![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/20.png)
