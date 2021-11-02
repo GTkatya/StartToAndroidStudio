@@ -14,6 +14,6 @@
 ***
 Добавлю SDK  файл, чтобы скомпилировать и запустить код на мобильном телефоне или на эмуляторе андроид.
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/5.png)
----
+***
 Выбираем нужный компонент
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/6.png)
