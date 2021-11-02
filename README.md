@@ -12,6 +12,5 @@
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/4.png)
 *Xml файл схож с html файлом, а также в нем пишется визуальная часть приложения*
 ***
--Добавлю SDK  файл, чтобы скомпилировать и запустить код на мобильном телефоне или на эмуляторе андроид.
-
+Добавлю SDK  файл, чтобы скомпилировать и запустить код на мобильном телефоне или на эмуляторе андроид.
 ![](https://github.com/GTkatya/StartToAndroidStudio/blob/main/pic/5.png)
